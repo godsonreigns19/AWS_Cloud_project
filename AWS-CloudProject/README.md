@@ -88,9 +88,3 @@ This project demonstrates hands-on deployment of a **scalable web application** 
 - DevOps Workflow & Git Integration  
 - AWS Infrastructure Design & Deployment  
 
----
-
-## 📌 How to Run Locally
-1. Clone the repository:  
-```bash
-git clone https://github.com/godsonreigns19/AWS-Cloud-Project.git

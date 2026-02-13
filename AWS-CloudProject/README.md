@@ -58,15 +58,7 @@ This project demonstrates hands-on deployment of a **scalable web application** 
 - Hardened Linux server access  
 - Managed Security Groups for controlled traffic  
 - Monitored server logs for troubleshooting  
-
----
-
-## 📈 Future Enhancements
-- Amazon RDS Multi-AZ deployment  
-- Private subnet database isolation  
-- Secure backend connectivity  
-- Infrastructure as Code using Terraform  
-- Monitoring & logging integration via CloudWatch  
+  
 
 ---
 
@@ -80,11 +72,6 @@ This project demonstrates hands-on deployment of a **scalable web application** 
 ![VPC](Screenshots/vpc.png)
 
 ---
+  
 
-## 💡 Skills Demonstrated
-- High Availability & Scalability  
-- Cloud Security & IAM  
-- Linux Server Management  
-- DevOps Workflow & Git Integration  
-- AWS Infrastructure Design & Deployment  
 
